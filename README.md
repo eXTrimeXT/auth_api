@@ -1,8 +1,4 @@
 # Система аутентификации и авторизации
-![FastAPI](https://img.shields.io/badge/FastAPI-0.104.1-009688?logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14+-336791?logo=postgresql)
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python)
-
 Собственная система аутентификации и авторизации, реализованная на FastAPI с использованием гибкой системы ролей и прав доступа.
 
 ## Описание системы
